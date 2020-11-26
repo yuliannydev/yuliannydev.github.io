@@ -1,0 +1,101 @@
+baseURL: "https://yuliannydev.me/"
+title: PaperMod
+paginate: 8
+theme: hugo-PaperMod
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+# googleAnalytics: G-Z7YVRK9MH8
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+languages:
+
+  en:
+    languageName: "Inicio"
+    weight: 2
+    title: Blog
+    profileMode:
+      enabled: true
+      title: "Hola \U0001F44B"
+      # imageUrl: "#"
+      # imageTitle: Yulianny Betancourt
+      # imageWidth: 120
+      # imageHeight: 120
+      subtitle: "Acompañame en esta historia"
+      buttons:
+        - name: Sobre mí
+          url: /sobre-mi/
+        - name: Post
+          url: posts
+        - name: Tags
+          url: tags
+
+params:
+  env: production
+  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+  author: Yulianny Betancourt
+  # author: ["Me", "You"] # multiple authors
+  ShowReadingTime: true
+  defaultTheme: auto
+  ShowShareButtons: true
+  displayFullLangName: true
+  # images: ""
+  # assets:
+  # favicon: '<path / external url>'
+
+  profileMode:
+    enabled: true
+    title: PaperMod
+    imageUrl: "https://i.imgur.com/yWnttI1.png"
+    imageTitle: Yulianny Betancourt
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: Archives
+        url: archives
+      - name: Tags
+        url: tags
+
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: >
+      Welcome to demo of hugo's theme PaperMod.
+      - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/yuliannydev"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/yulianny-betancourt/"
+    - name: github
+      url: "https://github.com/yuliannydev/"
+    - name: buymeacoffee
+      url: "https://ko-fi.com/raydesite/"
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+privacy:
+
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+
+  instagram:
+    disabled: false
+    simple: true
+
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
