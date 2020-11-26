@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Blog</title>
+    <link>https://yuliannydev.me/tags/</link>
+    <description>Recent content in Tags on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 25 Nov 2020 22:34:08 -0400</lastBuildDate><atom:link href="https://yuliannydev.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DesarrolloWeb</title>
+      <link>https://yuliannydev.me/tags/desarrolloweb/</link>
+      <pubDate>Wed, 25 Nov 2020 22:34:08 -0400</pubDate>
+      
+      <guid>https://yuliannydev.me/tags/desarrolloweb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://yuliannydev.me/tags/github/</link>
+      <pubDate>Wed, 25 Nov 2020 22:34:08 -0400</pubDate>
+      
+      <guid>https://yuliannydev.me/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://yuliannydev.me/tags/hugo/</link>
+      <pubDate>Wed, 25 Nov 2020 22:34:08 -0400</pubDate>
+      
+      <guid>https://yuliannydev.me/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

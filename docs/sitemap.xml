@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://yuliannydev.me/</loc>
+    <lastmod>2020-11-25T22:34:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuliannydev.me/tags/desarrolloweb/</loc>
+    <lastmod>2020-11-25T22:34:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuliannydev.me/tags/github/</loc>
+    <lastmod>2020-11-25T22:34:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuliannydev.me/tags/hugo/</loc>
+    <lastmod>2020-11-25T22:34:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuliannydev.me/posts/hugo-y-github-pages/</loc>
+    <lastmod>2020-11-25T22:34:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuliannydev.me/posts/</loc>
+    <lastmod>2020-11-25T22:34:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuliannydev.me/tags/</loc>
+    <lastmod>2020-11-25T22:34:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuliannydev.me/sobre-mi/</loc>
+    <lastmod>2020-11-25T22:31:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuliannydev.me/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yuliannydev.me/series/</loc>
+  </url>
+  
+</urlset>

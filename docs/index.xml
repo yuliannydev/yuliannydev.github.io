@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog</title>
+    <link>https://yuliannydev.me/</link>
+    <description>Recent content on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 25 Nov 2020 22:34:08 -0400</lastBuildDate><atom:link href="https://yuliannydev.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo y Github Pages</title>
+      <link>https://yuliannydev.me/posts/hugo-y-github-pages/</link>
+      <pubDate>Wed, 25 Nov 2020 22:34:08 -0400</pubDate>
+      
+      <guid>https://yuliannydev.me/posts/hugo-y-github-pages/</guid>
+      <description>Crea tu Página Web o Blog con Hugo + Github Pages en solo minutos. Hugo es un Framework de código abierto que te permite crear Sitios estáticos, y actualmente es el más veloz del mercado.
+Instala HUGO en tu Sistema Operativo Primero es necesario tener instalado en tu PC o Laptop hugo, porque ahí es donde iniciaras tu proyecto. Para eso:
+En Windows:
+$ choco install hugo -confirm
+En MAC:</description>
+    </item>
+    
+    <item>
+      <title>Sobre Mi</title>
+      <link>https://yuliannydev.me/sobre-mi/</link>
+      <pubDate>Wed, 25 Nov 2020 22:31:27 -0400</pubDate>
+      
+      <guid>https://yuliannydev.me/sobre-mi/</guid>
+      <description>Hola, mi nombre es Yulianny Betancourt, estoy terminando mi carrera de Ingeniería de Sistemas y en el camino he aprendido cosas que siento que debí mostrarle a los demás para que aprendan también. Soy Co-Fundadora de Raydesite, momento de públicidad Apoyanos en todas las redes. Actualmente estudio en Platzi y comparto contenido en la comunidad. #NuncaParesDeAprender La razón por la que decidí crear este Blog es porque siempre que estoy haciendo algo nuevo en la pc veo que hay cantidades infinitas de tutoriales para cada cosa pero de 100, 5 sirven porque no saben explicar o porque obvian algo, por eso es que he decidido crear este espacio en el cual puedan aprender de la manera más fácil posible y detallada sobre Tecnologías.</description>
+    </item>
+    
+  </channel>
+</rss>
