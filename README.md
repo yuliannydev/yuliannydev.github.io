@@ -15,7 +15,7 @@ La meta de este proyecto es agregar más caracteríscas y personalización al te
 
 El [sitio demo](https://adityatelange.github.io/hugo-PaperMod/) contiene toda la documentación sobre la Instalación, caracteristicas, y muchas más cosas. Asegurate de darle una ojeada, que a mí me ha ayudado mucho.
 
-EL sitio ejemplo lo puedes conseguir aquí: [Sitio ejemplo](https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite). El sitio demo está construido desde este ejemplo.
+El sitio ejemplo lo puedes conseguir aquí: [Sitio ejemplo](https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite). El sitio demo está construido desde este ejemplo.
 
 ---
 
