@@ -103,6 +103,10 @@ Como ya en tu pc creaste un repositorio al hacer ` $ git init` tienes que utiliz
 
 En tu caso será `https://github.com/tunombre/tunombre.github.io.git` la dirección del repo.
 
+` $ git add .`
+
+` $ git commit -m "Para verificar que todo este comiteado"`
+
 ` $ git branch -M main`
 
 ` $ git push -u origin main`
@@ -117,7 +121,7 @@ Ahora para que tu proyecto en local esté en tu cuenta de Github, y puedas tener
 
 Estando en **MiPagina**
 
-` $ hugo new -d docs`
+` $ hugo -d docs`
 
 Esto es para que se cree una carpeta docs adentro de la raíz de tu proyecto local, y de ese modo en tu repositorio se haga el deploy en docs.
 
