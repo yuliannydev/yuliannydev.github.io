@@ -60,10 +60,9 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
+    Title: "Hola \U0001F44B"
     Content: >
-      Welcome to demo of hugo's theme PaperMod.
-      - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+      Esto es un demo de PaperMod
   socialIcons:
     - name: twitter
       url: "https://twitter.com/yuliannydev"
@@ -71,7 +70,7 @@ params:
       url: "https://www.linkedin.com/in/yulianny-betancourt/"
     - name: github
       url: "https://github.com/yuliannydev/"
-    - name: buymeacoffee
+    - name: kofi
       url: "https://ko-fi.com/raydesite/"
 
 taxonomies:
