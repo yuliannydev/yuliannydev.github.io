@@ -5,7 +5,7 @@ theme: hugo-PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
-googleAnalytics: G-S0C0Q071HM
+googleAnalytics: G-F33W728Z0J
 
 minify:
   disableXML: true
@@ -24,7 +24,7 @@ languages:
       # imageTitle: Yulianny Betancourt
       # imageWidth: 120
       # imageHeight: 120
-      subtitle: "Acompañame en esta historia"
+      subtitle: "Hablemos de Tecnologías"
       buttons:
         - name: Sobre mí
           url: /sobre-mi/
@@ -62,7 +62,7 @@ params:
   homeInfoParams:
     Title: "Hola \U0001F44B"
     Content: >
-      Esto es un demo de PaperMod
+      Este es un Blog sobre Tecnologías y algo más.
   socialIcons:
     - name: twitter
       url: "https://twitter.com/yuliannydev"
@@ -70,7 +70,7 @@ params:
       url: "https://www.linkedin.com/in/yulianny-betancourt/"
     - name: github
       url: "https://github.com/yuliannydev/"
-    - name: kofi
+    - name: buymeacoffee
       url: "https://ko-fi.com/raydesite/"
 
 taxonomies:
