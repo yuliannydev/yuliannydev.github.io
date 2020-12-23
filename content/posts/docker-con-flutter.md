@@ -80,10 +80,10 @@ Y igualmente correr un comando en la Terminal externa:
 Y empezará a trabajar en el puerto 0.0.0.0:8090
 
 ### Enlaces adicionales
-- [Develop Flutter in VSCode](https://dev.to/matsp/develop-flutter-in-a-vs-code-devcontainer-350g)
+- [Develope Flutter in VSCode](https://dev.to/matsp/develop-flutter-in-a-vs-code-devcontainer-350g)
 - [Readme del Repo](https://github.com/yuliannydev/docker-flutter-multiplatform/blob/main/README.md)
 - [VSCode Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
 - [Alternativa de KVM para Windows](https://www.profesionalreview.com/2019/01/06/habilitar-hyper-v-windows-10/)
 
 
-**Gracias por visitar mi Blog, y espero haberte ayudado. Para cualquier duda puedes contactarme a mi Twitter y con gusto te ayudaré**
+**Gracias por visitar mi Blog, espero haberte ayudado. Para cualquier duda puedes contactarme a mi Twitter y con gusto te ayudaré**
