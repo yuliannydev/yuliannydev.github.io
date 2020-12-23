@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Blog</title>
-    <link>https://yuliannydev.me/posts/</link>
-    <description>Recent content in Posts on Blog</description>
+    <title>Docker on Blog</title>
+    <link>https://yuliannydev.me/tags/docker/</link>
+    <description>Recent content in Docker on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 23 Dec 2020 00:17:32 -0400</lastBuildDate><atom:link href="https://yuliannydev.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Dec 2020 00:17:32 -0400</lastBuildDate><atom:link href="https://yuliannydev.me/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker Con Flutter</title>
       <link>https://yuliannydev.me/posts/docker-con-flutter/</link>
@@ -13,19 +13,6 @@
       
       <guid>https://yuliannydev.me/posts/docker-con-flutter/</guid>
       <description>Contenedor de Docker para Flutter Recientemente estaba con la urgencia de hacer un proyecto con Flutter, pero los recursos de la PC no me dejaban, por lo cual empece a buscar alternativas y di con este contenedor, e intentando usarlo no podía hacer que funcionara el emulador, solo en web y era tardío el proceso, entonces empece a investigar y eran cosas sencillas que tenía que hacer para que todo funcionara que para otros pueden ser más sencillas o complejas, y por lo mucho que me ha ayudado, se los dejo aquí para que puedan solventar cualquier problema solamente teniendo Docker en su pc/laptop, VSCode, y una extensión en este.</description>
-    </item>
-    
-    <item>
-      <title>Hugo y Github Pages</title>
-      <link>https://yuliannydev.me/posts/hugo-y-github-pages/</link>
-      <pubDate>Wed, 25 Nov 2020 22:34:08 -0400</pubDate>
-      
-      <guid>https://yuliannydev.me/posts/hugo-y-github-pages/</guid>
-      <description>Crea tu Página Web o Blog con Hugo + Github Pages en solo minutos. Hugo es un Framework de código abierto que te permite crear Sitios estáticos, y actualmente es el más veloz del mercado.
-Instala HUGO en tu Sistema Operativo Primero es necesario tener instalado en tu PC o Laptop hugo, porque ahí es donde iniciaras tu proyecto. Para eso:
-En Windows:
-$ choco install hugo -confirm
-En MAC:</description>
     </item>
     
   </channel>

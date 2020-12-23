@@ -4,7 +4,42 @@
   
   <url>
     <loc>https://yuliannydev.me/</loc>
-    <lastmod>2020-11-25T22:34:08-04:00</lastmod>
+    <lastmod>2020-12-23T00:17:32-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuliannydev.me/tags/docker/</loc>
+    <lastmod>2020-12-23T00:17:32-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuliannydev.me/posts/docker-con-flutter/</loc>
+    <lastmod>2020-12-23T00:17:32-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuliannydev.me/tags/emulador-para-flutter/</loc>
+    <lastmod>2020-12-23T00:17:32-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuliannydev.me/tags/flutter/</loc>
+    <lastmod>2020-12-23T00:17:32-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuliannydev.me/tags/flutter-web/</loc>
+    <lastmod>2020-12-23T00:17:32-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuliannydev.me/posts/</loc>
+    <lastmod>2020-12-23T00:17:32-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuliannydev.me/tags/</loc>
+    <lastmod>2020-12-23T00:17:32-04:00</lastmod>
   </url>
   
   <url>
@@ -24,16 +59,6 @@
   
   <url>
     <loc>https://yuliannydev.me/posts/hugo-y-github-pages/</loc>
-    <lastmod>2020-11-25T22:34:08-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yuliannydev.me/posts/</loc>
-    <lastmod>2020-11-25T22:34:08-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yuliannydev.me/tags/</loc>
     <lastmod>2020-11-25T22:34:08-04:00</lastmod>
   </url>
   
