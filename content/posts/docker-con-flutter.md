@@ -31,11 +31,15 @@ Entramos al repo clonado, desde la misma terminal
 
 ` $ code . `
 
-Para instalar la extensión que dije que se necesita en VSCode, [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack). Una vez instalada:
+Para instalar la extensión que dije que se necesita en VSCode, [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack).
+
+![ExtensionRemoteDevelopment](https://i.imgur.com/CxZ6sUq.png)
+
+Una vez instalada:
 
 ` Ctrl + Shift + P `
 
-![RemoteDevelopmen1t](docs/assets/img/vsc-remote.png)
+![RemoteDevelopment](https://i.imgur.com/dIgz3NK.png)
 
 Le damos en **Remote-Containers: Rebuild and Reopen in Container**
 
@@ -43,12 +47,12 @@ Para que se descargue todo el contenido que necesitaremos para trabajar con Flut
 
 Y una vez esté descargado en la **terminal de VSCode** aparecerá algo así:
 
-![FlutterApp](docs/assets/img/app.png)
+![FlutterApp](https://i.imgur.com/rIiW1s8.png)
 
 Donde flutter_docker_compose es el nombre que le hayas dado inicialmente al repo clonado, o como tú quieras llamarle. Lo siguiente será crear nuestra Aplicación:
 
 
-![FlutterCreate](docs/assets/img/app1.png)
+![FlutterCreate](https://i.imgur.com/AEIMQFg.png)
 
 
 Ahora para poner andar el emulador Android necesitas tener soporte para [KVM](https://www.linux-kvm.org/page/Main_Page), en Linux puedes buscar en tu tienda de descarga.
@@ -70,5 +74,12 @@ Y igualmente correr un comando en la Terminal externa:
 ` $ docker run --rm -ti -e UID=$(id -u) -e GID=$(id -g) -p 42000:42000 -p 8090:8090  --workdir /project -v "$PWD":/project --entrypoint flutter-web matspfeiffer/flutter:beta `
 
 Y empezará a trabajar en el puerto 0.0.0.0:8090
+
+### Enlaces adicionales
+- [Develop Flutter in VSCode](https://dev.to/matsp/develop-flutter-in-a-vs-code-devcontainer-350g)
+- [Readme del Repo](https://github.com/yuliannydev/docker-flutter-multiplatform/blob/main/README.md)
+- [VSCode Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
+- [Alternativa de KVM para Windows](https://www.profesionalreview.com/2019/01/06/habilitar-hyper-v-windows-10/)
+
 
 **Gracias por visitar mi Blog, y espero haberte ayudado. Para cualquier duda puedes contactarme a mi Twitter y con gusto te ayudaré**
