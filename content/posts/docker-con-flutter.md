@@ -55,6 +55,8 @@ Donde flutter_docker_compose es el nombre que le hayas dado inicialmente al repo
 ![FlutterCreate](https://i.imgur.com/AEIMQFg.png)
 
 
+### Emulador para Android
+
 Ahora para poner andar el emulador Android necesitas tener soporte para [KVM](https://www.linux-kvm.org/page/Main_Page), en Linux puedes buscar en tu tienda de descarga.
 
 En la terminal externa, que dije que no cerráramos, vamos a colocar este comando, para que inicie el emulador:
@@ -64,6 +66,8 @@ En la terminal externa, que dije que no cerráramos, vamos a colocar este comand
 Ahora en la **terminal de VSCode**
 
 ` $ flutter emulators --launch flutter_emulator `
+
+### Flutter en Google Chrome
 
 Para trabajar en un Navegador Web con Chrome se debe tener esta extensión para depurar Dart:
 
