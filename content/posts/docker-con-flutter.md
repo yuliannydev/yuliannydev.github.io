@@ -8,7 +8,7 @@ tags: ["Docker", "Flutter", "Flutter Web", "Emulador para Flutter"]
 
 ## Contenedor de Docker para Flutter
 
-Recientemente estaba con la urgencia de hacer un proyecto con Flutter, pero los recursos de la PC no me dejaban, por lo cual empece a buscar alternativas y di con este contenedor, e intentando usarlo no podía hacer que funcionara el emulador, solo en web y era tardío el proceso, entonces empece a investigar y eran cosas sencillas que tenía que hacer para que todo funcionara que para otros pueden ser más sencillas o complejas, y por lo mucho que me ha ayudado, se los dejo aquí para que puedan solventar cualquier problema solamente teniendo Docker en su pc/laptop, VSCode, y una extensión en este.
+Recientemente estaba con la urgencia de hacer un proyecto con Flutter, pero los recursos de la PC no me dejaban, por lo cual empece a buscar alternativas y di con esta solucion, e intentando realizarla no podía hacer que funcionara el emulador, solo en web y era tardío el proceso, entonces empece a investigar y eran cosas sencillas que tenía que hacer para que todo funcionara, tanto en Web como en Android, que para otros pueden ser más sencillas o complejas, y por lo mucho que me ha ayudado, se los dejo aquí para que puedan solventar cualquier problema solamente teniendo Docker en su pc/laptop, VSCode, y una extensión en este.
 
 Gracias a la maravilla de Docker, con este contenedor podrás hacer tus prácticas y proyectos de Flutter sin preocuparte de las configuraciones en tu PC/Laptop.
 
@@ -73,7 +73,7 @@ Para trabajar en un Navegador Web con Chrome se debe tener esta extensión para 
 
 [Extension-Dart](https://chrome.google.com/webstore/detail/dart-debug-extension/eljbmlghnomdjgdjmbdekegdkbabckhm)
 
-Y igualmente correr un comando en la Terminal externa:
+E igualmente correr un comando en la Terminal externa:
 
 ` $ docker run --rm -ti -e UID=$(id -u) -e GID=$(id -g) -p 42000:42000 -p 8090:8090  --workdir /project -v "$PWD":/project --entrypoint flutter-web matspfeiffer/flutter:beta `
 
