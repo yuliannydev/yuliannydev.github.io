@@ -12,7 +12,7 @@
       <pubDate>Wed, 23 Dec 2020 00:17:32 -0400</pubDate>
       
       <guid>https://yuliannydev.me/posts/docker-con-flutter/</guid>
-      <description>Contenedor de Docker para Flutter Recientemente estaba con la urgencia de hacer un proyecto con Flutter, pero los recursos de la PC no me dejaban, por lo cual empece a buscar alternativas y di con este contenedor, e intentando usarlo no podía hacer que funcionara el emulador, solo en web y era tardío el proceso, entonces empece a investigar y eran cosas sencillas que tenía que hacer para que todo funcionara que para otros pueden ser más sencillas o complejas, y por lo mucho que me ha ayudado, se los dejo aquí para que puedan solventar cualquier problema solamente teniendo Docker en su pc/laptop, VSCode, y una extensión en este.</description>
+      <description>Contenedor de Docker para Flutter Recientemente estaba con la urgencia de hacer un proyecto con Flutter, pero los recursos de la PC no me dejaban, por lo cual empece a buscar alternativas y di con esta solucion, e intentando realizarla no podía hacer que funcionara el emulador, solo en web y era tardío el proceso, entonces empece a investigar y eran cosas sencillas que tenía que hacer para que todo funcionara, tanto en Web como en Android, que para otros pueden ser más sencillas o complejas, y por lo mucho que me ha ayudado, se los dejo aquí para que puedan solventar cualquier problema solamente teniendo Docker en su pc/laptop, VSCode, y una extensión en este.</description>
     </item>
     
   </channel>

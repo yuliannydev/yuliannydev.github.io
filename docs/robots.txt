@@ -1,3 +1,1 @@
 User-agent: *
-Disallow:
-Sitemap: https://yuliannydev.me/sitemap.xml
