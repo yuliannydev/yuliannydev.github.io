@@ -34,8 +34,6 @@ date: 2020-11-25T22:31:27-04:00
 
 #### Links de intereses
 
->Obten beneficios al registrate con estos links.
+>Recibe - 15% en [ClickUp](https://clickup.com/?fp_ref=yulianny36&promo=RAYCLICKUP)
 
-Recibe - 15% en [ClickUp](https://clickup.com/?fp_ref=yulianny36&promo=RAYCLICKUP)
-
-#### Gracias por visitar mi blog personal, puedes apoyarme en [Ko-fi](https://ko-fi.com/raydesite/)
+#### Gracias por visitar mi blog personal, puedes bríndarme un café en [Ko-fi](https://ko-fi.com/raydesite/)
