@@ -14,7 +14,9 @@ date: 2020-11-25T22:31:27-04:00
 
 - [x] Tecnologías de Desarrollo.
 - [x] Manjaro Linux (Sistema operativo).
+- [x] Gnu/Linux.
 - [x] Comunidad de Open source.
+- [x] Backend.
 - [x] Vídeojuegos (Móvil).
 - [x] Software para PC/Laptops y sus configuraciones.
 - [x] Series.
@@ -36,6 +38,4 @@ date: 2020-11-25T22:31:27-04:00
 
 Recibe - 15% en [ClickUp](https://clickup.com/?fp_ref=yulianny36&promo=RAYCLICKUP)
 
-20$ Amazon gift card, y Alojamiento gratis por 3 meses de tu [Podcast](https://www.buzzsprout.com/?referrer_id=1419358)
-
-#### Gracias por visitar mi blog personal.
+#### Gracias por visitar mi blog personal, puedes apoyarme en [Ko-fi](https://ko-fi.com/raydesite/)
