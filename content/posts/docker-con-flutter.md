@@ -6,7 +6,7 @@ description: "Contenedor de Docker para Flutter"
 tags: ["Docker", "Flutter", "Flutter Web", "Emulador para Flutter"]
 ---
 
-## Contenedor de Docker para Flutter
+## Desarrolla con Flutter en PC de pocos recursos
 
 Recientemente estaba con la urgencia de hacer un proyecto con Flutter, pero los recursos de la PC no me dejaban, por lo cual empece a buscar alternativas y di con esta solucion, e intentando realizarla no podía hacer que funcionara el emulador, solo en web y era tardío el proceso, entonces empece a investigar y eran cosas sencillas que tenía que hacer para que todo funcionara, tanto en Web como en Android, que para otros pueden ser más sencillas o complejas, y por lo mucho que me ha ayudado, se los dejo aquí para que puedan solventar cualquier problema solamente teniendo Docker en su pc/laptop, VSCode, y una extensión en este.
 
@@ -86,4 +86,4 @@ Y empezará a trabajar en el puerto 0.0.0.0:8090
 - [Alternativa de KVM para Windows](https://www.profesionalreview.com/2019/01/06/habilitar-hyper-v-windows-10/)
 
 
-**Gracias por visitar mi Blog, espero haberte ayudado. Para cualquier duda puedes contactarme a mi [Twitter](https://twitter.com/yuliannydev) y con gusto te ayudaré**
+**Gracias por visitar mi Blog, espero haberte ayudado. Para cualquier duda puedes contactarme a mi [Twitter](https://twitter.com/yuliannydev) que con gusto te ayudaré, y si quieres apoyarme en [ko-fi](https://ko-fi.com/raydesite/) **
