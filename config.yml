@@ -1,4 +1,4 @@
-baseURL: "https://yuliannydev.me/"
+baseURL: "yuliannydev.github.io"
 title: PaperMod
 paginate: 8
 theme: hugo-PaperMod
